@@ -1,0 +1,43 @@
+{
+  "manifest_version": 3,
+  "default_locale": "zh_CN",
+  "name": "leo帮你学",
+  "version": "1.0.0",
+  "description": "在线课堂任务自动托管：视频与图文学习点全自动推进，已完成的章节与测验自动略过，播完即无缝跳转至下一章节，兼容超星学习通及智慧树平台。",
+  "icons": {
+    "16": "icons/icon-16.png",
+    "48": "icons/icon-48.png",
+    "128": "icons/icon-128.png"
+  },
+  "permissions": [
+    "storage"
+  ],
+  "host_permissions": [
+    "https://*/*",
+    "http://*/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.chaoxing.com/*",
+        "*://*.erya100.com/*",
+        "*://*.xuexitong.com/*",
+        "*://*.zhihuishu.com/*"
+      ],
+      "js": [
+        "utils.js",
+        "ui.js",
+        "video.js",
+        "doc.js",
+        "quiz.js",
+        "candidates.js",
+        "decipher.js",
+        "ai.js",
+        "zhs.js",
+        "main.js"
+      ],
+      "run_at": "document_end",
+      "all_frames": true
+    }
+  ]
+}
