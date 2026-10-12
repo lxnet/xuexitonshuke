@@ -72,7 +72,7 @@
 微软商店审核通过，可使用商店安装，推荐使用**开发者模式手动加载**：
 ## 安装
 ### 方式1：Edge扩展商店（推荐）
-👉 [前往 Edge 扩展商店](https://microsoftedge.microsoft.com/addons/detail/leo%E5%B8%AE%E4%BD%A0%E5%AD%A6/ghebfknknjpinckeddpibelpmenncbep）
+👉 [前往 Edge 扩展商店]（https://microsoftedge.microsoft.com/addons/detail/leo%E5%B8%AE%E4%BD%A0%E5%AD%A6/ghebfknknjpinckeddpibelpmenncbep）
 1. 打开链接，点击**添加到 Microsoft Edge**
 2. 在弹窗确认添加，完成安装
 ### Chrome / Edge（开发者模式）
