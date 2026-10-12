@@ -69,8 +69,12 @@
 
 ## 📥 安装方式
 
-商店审核中，推荐使用**开发者模式手动加载**：
-
+微软商店审核通过，可使用商店安装，推荐使用**开发者模式手动加载**：
+## 安装
+### 方式1：Edge扩展商店（推荐）
+👉 [前往 Edge 扩展商店](https://microsoftedge.microsoft.com/addons/detail/leo%E5%B8%AE%E4%BD%A0%E5%AD%A6/ghebfknknjpinckeddpibelpmenncbep）
+1. 打开链接，点击**添加到 Microsoft Edge**
+2. 在弹窗确认添加，完成安装
 ### Chrome / Edge（开发者模式）
 
 
@@ -85,7 +89,6 @@
 
 5. 打开学习通或智慧树课程页，右上角出现控制面板即安装成功。
 
-> 商店上架后将提供一键安装入口，敬请期待。
 
 
 
