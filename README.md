@@ -72,9 +72,17 @@
 微软商店审核通过，可使用商店安装，推荐使用**开发者模式手动加载**：
 ## 安装
 ### 方式1：Edge扩展商店（推荐）
-👉 [前往 Edge 扩展商店]（https://microsoftedge.microsoft.com/addons/detail/leo%E5%B8%AE%E4%BD%A0%E5%AD%A6/ghebfknknjpinckeddpibelpmenncbep）
+👉 [前往 Edge 扩展商店 - Leo帮你学](https://microsoftedge.microsoft.com/addons/detail/leo%E5%B8%AE%E4%BD%A0%E5%AD%A6/ghebfknknjpinckeddpibelpmenncbep)
 1. 打开链接，点击**添加到 Microsoft Edge**
 2. 在弹窗确认添加，完成安装
+
+### 方式2：本地加载开发版
+1. 下载源码并解压到本地文件夹
+2. Edge地址栏输入 `edge://extensions/` 回车
+3. 开启**开发者模式**
+4. 点击「加载已解压的扩展」，选中解压目录
+
+> ⚠️ 离线安装后不要移动文件夹，否则扩展会失效。
 ### Chrome / Edge（开发者模式）
 
 
